@@ -1,5 +1,7 @@
 ## INTRODUCTION
 
+since the upstream repo is basically dead, I'll try developing this myself for the time being, and if the upstream becomes active again, I will submit everything as a pr. No promises though...  
+
 [![Build Status](https://travis-ci.org/sddm/sddm.svg?branch=master)](https://travis-ci.org/sddm/sddm)
 [![IRC Network](https://img.shields.io/badge/irc-freenode-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=sddm)
 
